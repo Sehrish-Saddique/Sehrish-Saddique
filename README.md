@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sehrish</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrish&label=Profile%20views&color=0e75b6&style=flat" alt="sehrish" /> </p>
+[![](https://visitcount.itsvg.in/api?id=sehrish-saddique&icon=0&color=10)](https://visitcount.itsvg.in)
+<img align="right" alt="gif-profile" src="https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/gif-profile.gif">
+
+ 
 
 - 🔭 I’m currently working as Software Engineer Intern at [Tiers Limited](https://www.linkedin.com/company/tiers-limited/mycompany/)
 
@@ -11,9 +14,9 @@
 - ⚡ Fun fact **I think Smile can brings a lot of positivity.**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="gif-profile" src="https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/gif-profile.gif">
 <p align="left">
-<a href="https://linkedin.com/in/sehrish saddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehrish saddique" height="30" width="40" /></a>
+   
+<a href="https://linkedin.com/in/sehrish-saddique-51b55621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehrish saddique" height="30" width="40" /></a>
 <a href="https://instagram.com/sehr1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sehr1112" height="30" width="40" /></a>
 <a href="https://dribbble.com/Sehr1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sehrish" height="30" width="40" /></a>
 </p>
@@ -29,8 +32,25 @@
 
 <p><a href="https://bmc.link/sehrish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/sehrish" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehrish&show_icons=true&locale=en&layout=compact" alt="sehrish" /></p>
+ 
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehrish&show_icons=true&locale=en" alt="sehrish" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sehrish-saddique&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sehrish-saddique&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sehrish-saddique&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehrish&" alt="sehrish" /></p>
+
+
+
+
+
+ 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sehrish-saddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+  
