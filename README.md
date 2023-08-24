@@ -7,7 +7,7 @@
 
  
 
-- 🔭 I’m currently working as Software Engineer Intern at [Tiers Limited](https://www.linkedin.com/company/tiers-limited/mycompany/)
+- 🔭 I’m currently working as Software Engineer Intern
 
 - 📫 How to reach me **sehr.sehr1112@gmail.com**
 
