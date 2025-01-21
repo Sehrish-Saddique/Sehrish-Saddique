@@ -7,7 +7,7 @@
 
  
 
-- 🔭 I’m currently working as Software Engineer Intern
+- 🔭 Software Engineer
 
 - 📫 How to reach me **sehr.sehr1112@gmail.com**
 
