@@ -1,4 +1,4 @@
-![logo](https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/Untitled%20(665%20%C3%97%20200%20px)%20(1).png)
+![logo](https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/SoftwareEngineer.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sehrish</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
