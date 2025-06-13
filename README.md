@@ -1,9 +1,8 @@
 ![logo](https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/SoftwareEngineer.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sehrish</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Web developer from Pakistan</h3>
 
 [![](https://visitcount.itsvg.in/api?id=sehrish-saddique&icon=0&color=10)](https://visitcount.itsvg.in)
-<img align="right" alt="gif-profile" src="https://github.com/Sehrish-Saddique/Sehrish-Saddique/blob/main/gif-profile.gif">
 
  
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **sehr.sehr1112@gmail.com**
 
-- ⚡ Fun fact **I think Smile can brings a lot of positivity.**
+- ⚡ Fun fact **Smile can brings a lot of positivity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
